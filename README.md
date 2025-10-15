@@ -39,7 +39,6 @@ O dashboard apresenta:
 - **Distribuição de assinaturas por tipo (Monthly, Quarterly, Annual)**;  
 - **Receita gerada por benefícios extras**;  
 - **Comparativo de planos Core, Standard e Ultimate**;  
-- **KPIs** de valor médio, total e participação percentual.  
 
 O design prioriza **clareza, objetividade e interação**, com uso de **segmentações de dados e gráficos dinâmicos**.
 
