@@ -49,5 +49,5 @@ O design prioriza **clareza, objetividade e interação**, com uso de **segmenta
 
 
 ## 🚀 Como Reproduzir
-1. Baixe o arquivo [`projeto_finalizado_dashboard_xbox_git.xlsx`](./projeto_finalizado_dashboard_xbox_git.xlsx);
+1. Baixe o arquivo: https://github.com/bartguitar/dio-desafio-projeto-bootcamp-randstad-modulo7.git;
 2. Abra no **Microsoft Excel (2016 ou superior)**;
